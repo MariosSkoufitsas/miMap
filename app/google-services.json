@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16976762446",
+    "firebase_url": "https://markermaps-b225b.firebaseio.com",
+    "project_id": "markermaps-b225b",
+    "storage_bucket": "markermaps-b225b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16976762446:android:62a4cf377eb674101ad51f",
+        "android_client_info": {
+          "package_name": "com.example.mymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16976762446-hvg13du1hvs16upfcp9jvrfkm0q9r594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWj_-Jjsqq5VN1RpGtooQTE1onzQCUtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16976762446-hvg13du1hvs16upfcp9jvrfkm0q9r594.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
